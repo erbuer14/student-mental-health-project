@@ -15,7 +15,7 @@ among international students by length of stay.
   prior to analysis.
 
 - `notebook.ipynb`  
-  Exploratory analysis and intermediate work, including early queries and investigation steps.
+  Exploratory analysis and intermediate work.
 
 - `students.csv`  
   Source dataset used for this analysis.
